@@ -1,0 +1,14 @@
+C:\Users\Zach\Desktop\SalesTaxC#\bin\Debug\WindowsApplication.exe
+C:\Users\Zach\Desktop\SalesTaxC#\bin\Debug\WindowsApplication.pdb
+C:\Users\Zach\Desktop\SalesTaxC#\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zach\Desktop\SalesTaxC#\obj\x86\Debug\SalesTaxCSharp.registerForm.resources
+C:\Users\Zach\Desktop\SalesTaxC#\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zach\Desktop\SalesTaxC#\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zach\Desktop\SalesTaxC#\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Zach\Desktop\SalesTaxC#\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Zach\Documents\School\SalesTaxC#\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Zach\Documents\School\SalesTaxC#\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Zach\Documents\School\SalesTaxC#\bin\Debug\WindowsApplication.exe
+C:\Users\Zach\Documents\School\SalesTaxC#\bin\Debug\WindowsApplication.pdb
+C:\Users\Zach\Documents\School\SalesTaxC#\obj\x86\Debug\SalesTaxCSharp.registerForm.resources
+C:\Users\Zach\Documents\School\SalesTaxC#\obj\x86\Debug\SalesTaxZachDyck.csproj.GenerateResource.Cache
